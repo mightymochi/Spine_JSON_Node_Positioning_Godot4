@@ -1,5 +1,5 @@
 # JSON Sprite Position for Godot 4
-[Youtube walkthrough](https://www.youtube.com/watch?v=CjDQfyXRoeI)
+[Temporary Youtube walkthrough](https://www.youtube.com/watch?v=CjDQfyXRoeI)
 
 - Quickly position and order sprites according to spine json exported with an art program. 
 - This script will reposition the nodes on the stage and reorder the nodes within the scene tree to match the layer order in the design file. 
