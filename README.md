@@ -1,5 +1,4 @@
 # Spine JSON Node Position for Godot 4
-[Youtube walkthrough](https://www.youtube.com/watch?v=CjDQfyXRoeI)
 
 - Quickly position and order nodes according to spine json exported from an art program. 
 - This script will reposition the nodes on the stage and reorder the nodes within the scene tree to match the layer order in the design file. 
